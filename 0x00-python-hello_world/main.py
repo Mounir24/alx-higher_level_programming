@@ -1,2 +1,2 @@
-#!/bin/bash/python
+#!/userbin/bash/python3
 print("Best School")
